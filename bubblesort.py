@@ -21,6 +21,6 @@ arr = list(map(int,input().split()))
 
 bubbleSort(arr) 
 
-print ("Sorted array is:") 
+print ("Sorted array is =") 
 for i in range(len(arr)): 
 	print ("%d" %arr[i]), 
